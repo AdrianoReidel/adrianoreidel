@@ -111,3 +111,8 @@ Você pode conhecer mais e me contatar através do meu [Linkedin](https://www.li
     src="https://github-readme-stats.vercel.app/api?username=adrianoreidel&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 </p>
+
+
+<img src="https://raw.githubusercontent.com/adrianoreidel/adrianoreidel/output/snake.svg" alt="Snake animation" />
+
+###
