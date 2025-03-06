@@ -100,14 +100,14 @@ Você pode conhecer mais e me contatar através do meu [Linkedin](https://www.li
     <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="140" 
+    style="padding-right: 10px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianoreidel&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
     <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
+    height="140" 
     src="https://github-readme-stats.vercel.app/api?username=adrianoreidel&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 </p>
