@@ -112,7 +112,4 @@ Você pode conhecer mais e me contatar através do meu [Linkedin](https://www.li
   />
 </p>
 
-
-<img src="https://raw.githubusercontent.com/adrianoreidel/adrianoreidel/output/snake.svg" alt="Snake animation" />
-
 ###
