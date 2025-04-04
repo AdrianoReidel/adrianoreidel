@@ -21,7 +21,7 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/adrianoreidel/SEU-REPOSITORIO.git
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/adrianoreidel/adrianoreidel.git
 
       - name: Commit e push das atualizações
         run: |
