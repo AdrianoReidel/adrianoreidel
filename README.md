@@ -90,26 +90,3 @@ Você pode conhecer mais e me contatar através do meu [Linkedin](https://www.li
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-    <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="140" 
-    style="padding-right: 10px;" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianoreidel&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-    <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="140" 
-    src="https://github-readme-stats.vercel.app/api?username=adrianoreidel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" 
-  />
-</p>
-
-###
